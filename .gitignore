@@ -1,0 +1,9 @@
+node_modules
+public/files
+public/images
+public/uploads
+.eslintrc.json
+.vscode
+.env
+auth/public.key
+auth/private.key
